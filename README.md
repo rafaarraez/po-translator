@@ -47,19 +47,13 @@ pip install -r requirements.txt
 ### 1. Place your .po file in the same directory and make sure it's named:
 
 ```bash
-trx_addons-es_VE.po
-```
-
-### 1. Place your .po file in the same directory and make sure it's named:
-
-```bash
-trx_addons-es_VE.po
+path/to/file.po
 ```
 
 ### 2. A translated file will be saved as:
 
 ```bash
-trx_addons-es_VE.po
+path/to/file-translated.po
 ```
 
 ### 3. Run the script:
